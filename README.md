@@ -1,2 +1,2 @@
-# flutter_materials_translate
-针对flutter.io官网提供的flutter资料进行翻译整理
+# FMUI
+使用flutter进行常规ui的二次封装，提高flutter进行ui开发的效率。
