@@ -1,8 +1,2 @@
-# flutter_app
-
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+# FMUI
+使用flutter进行常规ui的二次封装，提高flutter进行ui开发的效率。
